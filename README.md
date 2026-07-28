@@ -2,8 +2,6 @@
 
 - 🌱 I'm currently learning **AI & Machine Learning**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1jKppOGfL7XrdWR8iblPJWYCtK3kO9au79aIG7-vbqwQ](https://docs.google.com/document/d/1jKppOGfL7XrdWR8iblPJWYCtK3kO9au79aIG7-vbqwQ)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/MonteNegroX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MonteNegroX" height="30" width="40" /></a>
