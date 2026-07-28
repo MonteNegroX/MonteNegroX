@@ -1,4 +1,5 @@
 # Hi 👋, I'm pazhik ![](https://komarev.com/ghpvc/?username=MonteNegroX)
+[![pazhik profile views](https://u8views.com/api/v1/github/profiles/133212006/views/day-week-month-total-count.svg)](https://u8views.com/github/MonteNegroX)
 
 - 🌱 I'm currently learning **AI & Machine Learning**
 
