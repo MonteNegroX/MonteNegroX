@@ -17,4 +17,4 @@
 
 ![](https://komarev.com/ghpvc/?username=MonteNegroX)
 
-[![trophy][https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github-profile-trophy-unserori.vercel.app/?username=MonteNegroX&theme=light)
+[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=MonteNegroX&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
