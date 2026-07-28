@@ -1,16 +1,8 @@
 # Hi 👋, I'm pazhik
 
-### A passionate Typescript developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MonteNegroX&label=Profile views&color=0e75b6&style=flat" alt="MonteNegroX" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MonteNegroX" alt="MonteNegroX" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pazhik_ido" target="blank"><img src="https://img.shields.io/twitter/follow/pazhik_ido?logo=twitter&style=for-the-badge" alt="pazhik_ido" /></a> </p>
-
 - 🌱 I'm currently learning **AI & Machine Learning**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1jKppOGfL7XrdWR8iblPJWYCtK3kO9au79aIG7-vbqwQ/edit?usp=sharing](https://docs.google.com/document/d/1jKppOGfL7XrdWR8iblPJWYCtK3kO9au79aIG7-vbqwQ/edit?usp=sharing)**
+- 📄 Know about my experiences **[https://docs.google.com/document/d/1jKppOGfL7XrdWR8iblPJWYCtK3kO9au79aIG7-vbqwQ](https://docs.google.com/document/d/1jKppOGfL7XrdWR8iblPJWYCtK3kO9au79aIG7-vbqwQ)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
