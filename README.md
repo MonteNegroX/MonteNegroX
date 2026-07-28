@@ -18,3 +18,5 @@
 
 
 [![trophy](https://github-profile-trophy-unserori.vercel.app/?username=MonteNegroX&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonteNegroX&show_contributed_to=true&theme=dark)
