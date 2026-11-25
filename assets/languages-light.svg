@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" role="img" aria-labelledby="t d" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<title id="t">Languages</title>
+<desc id="d">A spinning 3D donut of primary languages across 34 repositories. TypeScript: 13; Python: 11; JavaScript: 3; Go: 2; PHP: 2; C++: 1; Jupyter Notebook: 1; Rust: 1.</desc>
+<defs><g id="lt"><path d="M0 -158A158 158 0 0 1 106.4 116.8L57.9 63.6A86 86 0 0 0 0 -86Z" fill="#3178c6" stroke="#ffffff" stroke-width="2" vector-effect="non-scaling-stroke"/><path d="M106.4 116.8A158 158 0 0 1 -152 43.2L-82.7 23.5A86 86 0 0 0 57.9 63.6Z" fill="#3572a5" stroke="#ffffff" stroke-width="2" vector-effect="non-scaling-stroke"/><path d="M-152 43.2A158 158 0 0 1 -152 -43.2L-82.7 -23.5A86 86 0 0 0 -82.7 23.5Z" fill="#f1e05a" stroke="#ffffff" stroke-width="2" vector-effect="non-scaling-stroke"/><path d="M-152 -43.2A158 158 0 0 1 -126.1 -95.2L-68.6 -51.8A86 86 0 0 0 -82.7 -23.5Z" fill="#00add8" stroke="#ffffff" stroke-width="2" vector-effect="non-scaling-stroke"/><path d="M-126.1 -95.2A158 158 0 0 1 -83.2 -134.3L-45.3 -73.1A86 86 0 0 0 -68.6 -51.8Z" fill="#4f5d95" stroke="#ffffff" stroke-width="2" vector-effect="non-scaling-stroke"/><path d="M-83.2 -134.3A158 158 0 0 1 -57.1 -147.3L-31.1 -80.2A86 86 0 0 0 -45.3 -73.1Z" fill="#f34b7d" stroke="#ffffff" stroke-width="2" vector-effect="non-scaling-stroke"/><path d="M-57.1 -147.3A158 158 0 0 1 -29 -155.3L-15.8 -84.5A86 86 0 0 0 -31.1 -80.2Z" fill="#da5b0b" stroke="#ffffff" stroke-width="2" vector-effect="non-scaling-stroke"/><path d="M-29 -155.3A158 158 0 0 1 0 -158L0 -86A86 86 0 0 0 -15.8 -84.5Z" fill="#dea584" stroke="#ffffff" stroke-width="2" vector-effect="non-scaling-stroke"/></g><g id="lw"><path d="M0 -158A158 158 0 0 1 106.4 116.8L57.9 63.6A86 86 0 0 0 0 -86Z" fill="#1c4673"/><path d="M106.4 116.8A158 158 0 0 1 -152 43.2L-82.7 23.5A86 86 0 0 0 57.9 63.6Z" fill="#1f4260"/><path d="M-152 43.2A158 158 0 0 1 -152 -43.2L-82.7 -23.5A86 86 0 0 0 -82.7 23.5Z" fill="#8c8234"/><path d="M-152 -43.2A158 158 0 0 1 -126.1 -95.2L-68.6 -51.8A86 86 0 0 0 -82.7 -23.5Z" fill="#00647d"/><path d="M-126.1 -95.2A158 158 0 0 1 -83.2 -134.3L-45.3 -73.1A86 86 0 0 0 -68.6 -51.8Z" fill="#2e3656"/><path d="M-83.2 -134.3A158 158 0 0 1 -57.1 -147.3L-31.1 -80.2A86 86 0 0 0 -45.3 -73.1Z" fill="#8d2c49"/><path d="M-57.1 -147.3A158 158 0 0 1 -29 -155.3L-15.8 -84.5A86 86 0 0 0 -31.1 -80.2Z" fill="#7e3506"/><path d="M-29 -155.3A158 158 0 0 1 0 -158L0 -86A86 86 0 0 0 -15.8 -84.5Z" fill="#81604d"/></g></defs>
+<ellipse cx="236" cy="248" rx="165.9" ry="37.9" fill="#1f2328" fill-opacity="0.06"/>
+<g transform="translate(236 226) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 224.5) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 223) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 221.5) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 220) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 218.5) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 217) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 215.5) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 214) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 212.5) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 211) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 209.5) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 208) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 206.5) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 205) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 203.5) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 202) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 200.5) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 199) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 197.5) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lw"/></g></g>
+<g transform="translate(236 196) scale(1 0.4)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/><use href="#lt"/></g></g>
+<text x="236" y="200" fill="#1f2328" font-size="30" font-weight="800" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke">8</text>
+<text x="236" y="218" fill="#59636e" font-size="11.5" text-anchor="middle" stroke="#ffffff" stroke-width="3" paint-order="stroke">languages</text>
+<text x="482" y="50" fill="#1f2328" font-size="19" font-weight="700">What it is written in</text>
+<text x="482" y="71" fill="#59636e" font-size="12.5">Primary language of each of the 34 repositories.</text>
+<rect x="482" y="102" width="11" height="11" rx="2.5" fill="#3178c6"/>
+<text x="502" y="112" fill="#1f2328" font-size="13">TypeScript</text>
+<rect x="652" y="105" width="144" height="6" rx="3" fill="#3178c6" fill-opacity="0.85"><animate attributeName="width" from="0" to="144" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></rect>
+<text x="876" y="112" fill="#59636e" font-size="12.5" text-anchor="end"><tspan fill="#1f2328" font-weight="700">13</tspan>  38.2%</text>
+<rect x="482" y="127" width="11" height="11" rx="2.5" fill="#3572a5"/>
+<text x="502" y="137" fill="#1f2328" font-size="13">Python</text>
+<rect x="652" y="130" width="121.8" height="6" rx="3" fill="#3572a5" fill-opacity="0.85"><animate attributeName="width" from="0" to="121.8" dur="1.2s" begin="0.27s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></rect>
+<text x="876" y="137" fill="#59636e" font-size="12.5" text-anchor="end"><tspan fill="#1f2328" font-weight="700">11</tspan>  32.4%</text>
+<rect x="482" y="152" width="11" height="11" rx="2.5" fill="#f1e05a"/>
+<text x="502" y="162" fill="#1f2328" font-size="13">JavaScript</text>
+<rect x="652" y="155" width="33.2" height="6" rx="3" fill="#f1e05a" fill-opacity="0.85"><animate attributeName="width" from="0" to="33.2" dur="1.2s" begin="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></rect>
+<text x="876" y="162" fill="#59636e" font-size="12.5" text-anchor="end"><tspan fill="#1f2328" font-weight="700">3</tspan>  8.8%</text>
+<rect x="482" y="177" width="11" height="11" rx="2.5" fill="#00add8"/>
+<text x="502" y="187" fill="#1f2328" font-size="13">Go</text>
+<rect x="652" y="180" width="22.2" height="6" rx="3" fill="#00add8" fill-opacity="0.85"><animate attributeName="width" from="0" to="22.2" dur="1.2s" begin="0.41s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></rect>
+<text x="876" y="187" fill="#59636e" font-size="12.5" text-anchor="end"><tspan fill="#1f2328" font-weight="700">2</tspan>  5.9%</text>
+<rect x="482" y="202" width="11" height="11" rx="2.5" fill="#4f5d95"/>
+<text x="502" y="212" fill="#1f2328" font-size="13">PHP</text>
+<rect x="652" y="205" width="22.2" height="6" rx="3" fill="#4f5d95" fill-opacity="0.85"><animate attributeName="width" from="0" to="22.2" dur="1.2s" begin="0.48s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></rect>
+<text x="876" y="212" fill="#59636e" font-size="12.5" text-anchor="end"><tspan fill="#1f2328" font-weight="700">2</tspan>  5.9%</text>
+<rect x="482" y="227" width="11" height="11" rx="2.5" fill="#f34b7d"/>
+<text x="502" y="237" fill="#1f2328" font-size="13">C++</text>
+<rect x="652" y="230" width="11.1" height="6" rx="3" fill="#f34b7d" fill-opacity="0.85"><animate attributeName="width" from="0" to="11.1" dur="1.2s" begin="0.55s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></rect>
+<text x="876" y="237" fill="#59636e" font-size="12.5" text-anchor="end"><tspan fill="#1f2328" font-weight="700">1</tspan>  2.9%</text>
+<rect x="482" y="252" width="11" height="11" rx="2.5" fill="#da5b0b"/>
+<text x="502" y="262" fill="#1f2328" font-size="13">Jupyter Notebook</text>
+<rect x="652" y="255" width="11.1" height="6" rx="3" fill="#da5b0b" fill-opacity="0.85"><animate attributeName="width" from="0" to="11.1" dur="1.2s" begin="0.62s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></rect>
+<text x="876" y="262" fill="#59636e" font-size="12.5" text-anchor="end"><tspan fill="#1f2328" font-weight="700">1</tspan>  2.9%</text>
+<rect x="482" y="277" width="11" height="11" rx="2.5" fill="#dea584"/>
+<text x="502" y="287" fill="#1f2328" font-size="13">Rust</text>
+<rect x="652" y="280" width="11.1" height="6" rx="3" fill="#dea584" fill-opacity="0.85"><animate attributeName="width" from="0" to="11.1" dur="1.2s" begin="0.69s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></rect>
+<text x="876" y="287" fill="#59636e" font-size="12.5" text-anchor="end"><tspan fill="#1f2328" font-weight="700">1</tspan>  2.9%</text>
+</svg>

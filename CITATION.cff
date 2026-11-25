@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "MonteNegroX"
+abstract: "Profile catalog and generated analytics for pazhik (@MonteNegroX): AI agents, DeFi tooling, and on-chain applications."
+repository-code: "https://github.com/MonteNegroX/MonteNegroX"
+url: "https://github.com/MonteNegroX"
+authors:
+  - alias: MonteNegroX
+    name: pazhik
+    website: "https://github.com/MonteNegroX"

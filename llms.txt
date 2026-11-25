@@ -1,0 +1,35 @@
+# MonteNegroX (pazhik)
+
+> Software by pazhik (@MonteNegroX): AI agents, DeFi tooling, and on-chain applications. 34 public repositories (2 original, 32 forks).
+
+## Catalog
+
+- [Full machine-readable list](https://github.com/MonteNegroX/MonteNegroX/blob/main/repos.json): name, description, topics, language, fork flag and stars for every repo
+- [Human catalog](https://github.com/MonteNegroX/MonteNegroX#readme): grouped by topic
+
+## Sections
+
+- Original projects: 2 repositories
+- DeFi & on-chain tooling: 3 repositories
+- AI agents & memory: 13 repositories
+- Browser automation & scraping: 6 repositories
+- Local inference & self-hosted: 7 repositories
+- Gaming & experiments: 3 repositories
+
+## Original projects
+
+- [frame-ambassadors](https://github.com/MonteNegroX/frame-ambassadors): Agentic KOL campaign platform with Solana escrow
+- [gacha-capsule](https://github.com/MonteNegroX/gacha-capsule): Next.js site and pack worker for Capsule: $25 graded packs & Garage Packs with USDG on Robinhood Chain and USDC on...
+
+## Contributions
+
+Repositories owned by others where MonteNegroX has merged pull requests:
+
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor): 1 merged
+- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute): 1 merged
+- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill): 1 merged
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher): 1 merged
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi): 1 merged
+- [agegr/pi-web](https://github.com/agegr/pi-web): 1 merged
+- [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters): 1 merged
+- [DefiLlama/dimension-adapters](https://github.com/DefiLlama/dimension-adapters): 1 merged

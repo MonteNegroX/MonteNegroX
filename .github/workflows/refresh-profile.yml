@@ -1,0 +1,31 @@
+name: Refresh Profile
+
+on:
+  schedule:
+    - cron: '17 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Build profile catalog and charts
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+        run: npm run build
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- README.md llms.txt llms-full.txt CITATION.cff AGENTS.md repos.json assets
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: refresh profile catalog and charts"
+            git push
+          fi
