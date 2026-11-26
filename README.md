@@ -28,10 +28,10 @@ Core stack: **TypeScript**, **Python**, **React / Next.js**, **Node.js**, **Sola
 
 - [frame-ambassadors](https://github.com/MonteNegroX/frame-ambassadors) ★1: Agentic KOL campaign platform with Solana escrow
 - [gacha-capsule](https://github.com/MonteNegroX/gacha-capsule): Next.js site and pack worker for Capsule: $25 graded packs & Garage Packs with USDG on Robinhood Chain and USDC on Hyperliquid.
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) ★91178: merged [#5865](https://github.com/koala73/worldmonitor/pull/5865): Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and...
-- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) ★90312: merged [#8217](https://github.com/cheaper-inference/OmniRoute/pull/8217): Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude...
-- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) ★39025: merged [#147](https://github.com/virgiliojr94/book-to-skill/pull/147): Turn any technical book PDF into a Claude Code skill: ready to study, reference, and use while you work.
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) ★30907: merged [#2083](https://github.com/assafelovic/gpt-researcher/pull/2083): An autonomous agent that conducts deep research on any data using any LLM providers
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) ★91218: merged [#5865](https://github.com/koala73/worldmonitor/pull/5865): Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and...
+- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) ★90526: merged [#8217](https://github.com/cheaper-inference/OmniRoute/pull/8217): Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude...
+- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) ★39096: merged [#147](https://github.com/virgiliojr94/book-to-skill/pull/147): Turn any technical book PDF into a Claude Code skill: ready to study, reference, and use while you work.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) ★30929: merged [#2083](https://github.com/assafelovic/gpt-researcher/pull/2083): An autonomous agent that conducts deep research on any data using any LLM providers
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/top-stars-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/top-stars-light.svg"/><img alt="Open-source reach across external repositories with merged pull requests" src="./assets/top-stars-light.svg" width="100%"/></picture>
 
@@ -48,7 +48,7 @@ Every chart below is rendered from the live GitHub listing each time the catalog
 
 ## How I build
 
-Pulled from the GitHub API on November 25, 2026. Contribution counts and streaks include private repositories as counts only. Lines and hours come from public non-fork repositories, with any commit over 20,000 changed lines left out as a bulk import. Hours are not a stopwatch: a day counts each clock hour (UTC) in which at least one commit landed, so it cannot pass 24.
+Pulled from the GitHub API on November 26, 2026. Contribution counts and streaks include private repositories as counts only. Lines and hours come from public non-fork repositories, with any commit over 20,000 changed lines left out as a bulk import. Hours are not a stopwatch: a day counts each clock hour (UTC) in which at least one commit landed, so it cannot pass 24.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-volume-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/activity-volume-light.svg"/><img alt="Contributions, lines added and lines removed over the last 12 months" src="./assets/activity-volume-light.svg" width="100%"/></picture>
 
@@ -65,8 +65,8 @@ Pulled from the GitHub API on November 25, 2026. Contribution counts and streaks
 - Busiest day: June 23, 2025 with 78 contributions.
 - Biggest day for lines: August 28, 2026 with 16,972 lines changed.
 - Most hours with a push in one day: 8 on October 11, 2026.
-- Last 30 days: 0 contributions, 0 lines added and 0 removed across 0 active days.
-- Current streak: 0 days. Longest: 8 days, ending July 11, 2025.
+- Last 30 days: 1 contributions, 0 lines added and 0 removed across 1 active days.
+- Current streak: 1 days. Longest: 8 days, ending July 11, 2025.
 
 | Where the lines went | Commits | Added | Removed |
 |---|---:|---:|---:|
@@ -80,12 +80,12 @@ Pulled from the GitHub API on November 25, 2026. Contribution counts and streaks
 <details open>
 <summary>8 repositories</summary>
 
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) ★91178, merged [#5865](https://github.com/koala73/worldmonitor/pull/5865): Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified...
-- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) ★90312, merged [#8217](https://github.com/cheaper-inference/OmniRoute/pull/8217): Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek...
-- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) ★39025, merged [#147](https://github.com/virgiliojr94/book-to-skill/pull/147): Turn any technical book PDF into a Claude Code skill: ready to study, reference, and use while you work.
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) ★30907, merged [#2083](https://github.com/assafelovic/gpt-researcher/pull/2083): An autonomous agent that conducts deep research on any data using any LLM providers
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) ★26191, merged [#1039](https://github.com/AprilNEA/OpenLogi/pull/1039): ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀: remap buttons, DPI, and SmartShift over HID++. No account, no...
-- [agegr/pi-web](https://github.com/agegr/pi-web) ★8406, merged [#313](https://github.com/agegr/pi-web/pull/313): Web UI for the pi coding agent
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) ★91218, merged [#5865](https://github.com/koala73/worldmonitor/pull/5865): Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified...
+- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) ★90526, merged [#8217](https://github.com/cheaper-inference/OmniRoute/pull/8217): Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek...
+- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) ★39096, merged [#147](https://github.com/virgiliojr94/book-to-skill/pull/147): Turn any technical book PDF into a Claude Code skill: ready to study, reference, and use while you work.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) ★30929, merged [#2083](https://github.com/assafelovic/gpt-researcher/pull/2083): An autonomous agent that conducts deep research on any data using any LLM providers
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) ★26233, merged [#1039](https://github.com/AprilNEA/OpenLogi/pull/1039): ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀: remap buttons, DPI, and SmartShift over HID++. No account, no...
+- [agegr/pi-web](https://github.com/agegr/pi-web) ★8424, merged [#313](https://github.com/agegr/pi-web/pull/313): Web UI for the pi coding agent
 - [DefiLlama/DefiLlama-Adapters](https://github.com/DefiLlama/DefiLlama-Adapters) ★1281, merged [#21565](https://github.com/DefiLlama/DefiLlama-Adapters/pull/21565)
 - [DefiLlama/dimension-adapters](https://github.com/DefiLlama/dimension-adapters) ★220, merged [#10089](https://github.com/DefiLlama/dimension-adapters/pull/10089)
 
